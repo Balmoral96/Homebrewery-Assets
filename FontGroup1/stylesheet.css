@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: 'Charpentier Renaissance Reduced';
+    font-family: 'Charpentier1';
     src: url('CharpentierRenRed-Oblique.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
@@ -15,7 +15,7 @@
 }
 
 @font-face {
-    font-family: 'Charpentier Renaissance Reduced';
+    font-family: 'Charpentier2';
     src: url('CharpentierRenRed-Demi.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-    font-family: 'Charpentier Renaissance Reduced';
+    font-family: 'Charpentier3';
     src: url('CharpentierRenRed-Normal.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -31,7 +31,7 @@
 }
 
 @font-face {
-    font-family: 'Charpentier Renaissance Reduced';
+    font-family: '4';
     src: url('CharpentierRenRed-DemiObl.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
